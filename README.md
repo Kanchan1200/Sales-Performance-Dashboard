@@ -78,3 +78,6 @@ Reduced manual reporting effort by automating performance analysis.
 10,000+ transaction records
 
 Fields include: Order Date, Region, Product Category, Sales Amount, Profit, Quantity
+
+<img width="867" height="492" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/c5d96836-a75e-4f0f-9215-ae7be90b8a1f" />
+
